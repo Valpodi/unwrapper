@@ -1,0 +1,5 @@
+name: "C++ build action"
+description: "Build unwrapper"
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
